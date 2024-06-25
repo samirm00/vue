@@ -1,0 +1,26 @@
+# Node & NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build files
+/dist/
+/.sass-cache/
+/.parcel-cache/
+/.nuxt/
+/nuxt.config.js
+
+# Logs and debugging
+/logs/
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
